@@ -1,11 +1,9 @@
-import { useState } from 'react';
+import { TodoApp } from './todo/TodoApp';
 
 function App() {
-  const [count, setCount] = useState(0);
-
   return (
-    <div className="App">
-      <h1>TODO APP</h1>
+    <div className="mt-5">
+      <TodoApp />
     </div>
   );
 }
