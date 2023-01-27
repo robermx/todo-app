@@ -11,8 +11,9 @@
 ## Technologies
 
 - React v18
-- Vite
+- Vite v4
 - Typescript
 - useContext
 - createContext
 - contextProvider
+- Bootstrap v5
