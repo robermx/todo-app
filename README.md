@@ -13,3 +13,6 @@
 - React v18
 - Vite
 - Typescript
+- useContext
+- createContext
+- contextProvider
